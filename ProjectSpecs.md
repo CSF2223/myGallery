@@ -1,7 +1,8 @@
 # PROJECT SPECIFICATIONS and RUBRIC
 
 ## Creativity
- _ The primary purpose for a "freelance" project is to take what you have learned in the related "walkthrough" and make the 
+ - The primary purpose for a "freelance" project is to take what you have learned in the related "walkthrough" and make it yopur own.
+ -  
 
 
 
