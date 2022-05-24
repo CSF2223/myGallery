@@ -7,7 +7,7 @@
 
 
 ## General Specifications
- - The primary specification for a “walkthrough” is that all facets of the tutorial(s) - classroom and video - are followed in detail.  Including:
+ - While this is a "freelance" project, the expectation is that the key concepts and structure from the related "walkthrough" project are still followed. Including:
  - HTML tags and their structure
      - All applicable [HTML Layout Elements](https://www.w3schools.com/html/html_layout.asp) are utilized appropriately and as demonstrated in the tutorial(s).
      - All applicable [HTML Element Tags](https://www.w3schools.com/html/html_elements.asp) are utilized appropriately and as demonstrated in the tutorial(s).
