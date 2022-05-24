@@ -39,4 +39,4 @@
 | Administrative Specifications     |     | 20           | 16            | 12           |   8               |
 | Time and Classroom Management     |     | 20           | 16            | 12           |   8               |
 | Timeliness of Project Deadlines   |     | 20           | 16            | 12           |   8               |
-| TOTAL                             |     | 100          |
+| TOTAL                             |     | 150          |
