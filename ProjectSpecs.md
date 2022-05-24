@@ -1,5 +1,10 @@
 # PROJECT SPECIFICATIONS and RUBRIC
 
+## Creativity
+ _ The primary purpose for a "freelance" project is to take what you have learned in the related "walkthrough" and make the 
+
+
+
 ## General Specifications
  - The primary specification for a “walkthrough” is that all facets of the tutorial(s) - classroom and video - are followed in detail.  Including:
  - HTML tags and their structure
@@ -11,6 +16,9 @@
  - CSS styles and their structure
      - All applicable [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) are utilized appropriately and as demonstrated in the tutorial(s).
      - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are utilized appropriately and as demonstrated in the tutorial(s).
+
+
+
 
 
 ## Administrative Specifications
