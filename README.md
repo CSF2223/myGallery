@@ -5,7 +5,7 @@
 <em>All project work/edits must be done in your AWS Cloud9 IDE (Integrated Development Environment). NEVER write directly to your GitHub Repositories!</em>
 <hr>
 
-**My Gallery** is our first freelance" (non-walkthrough) project.
+**My Gallery** is our first freelance (non-walkthrough) project.
 
 ## Key concepts demonstrated:
     1. Basic HTML tags and their structure
