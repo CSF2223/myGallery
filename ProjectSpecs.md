@@ -1,7 +1,13 @@
 # PROJECT SPECIFICATIONS and RUBRIC
 
 ## Creativity
- - The primary purpose for a "freelance" project is to take what you have learned in the related "walkthrough" and make it your own.
+ - The primary purpose for a "freelance" project is to take what you have learned in the related walkthrough and make it your own.
+ - In this project you are asked to do the following:
+     - Adapt your own "theme" to this image gallery.  Hawaii was the theme adapted in the walk-through.
+     - Maintain the identical structure from the ImageGallery walk-through project as stated in General Specifications below
+     - Select your own colors / color palette
+     - Select your own fonts
+     - Include a minimum of nine images that relate
  -  
 
 
@@ -17,9 +23,7 @@
  - CSS styles and their structure
      - All applicable [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) are utilized appropriately and as demonstrated in the tutorial(s).
      - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are utilized appropriately and as demonstrated in the tutorial(s).
-
-
-
+     - This project will be designed with a [mobile - first](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/) approach.
 
 
 ## Administrative Specifications
