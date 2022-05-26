@@ -7,8 +7,9 @@
      - Maintain the identical structure from the ImageGallery walk-through project as stated in General Specifications below
      - Select your own colors / color palette
      - Select your own fonts
-     - Include a minimum of nine images that relate
- -  
+     - Include a minimum of nine images that directly relate to your theme
+     - Adhere to any and all copyright concerns
+ - This project will be published on the internet and thus should be appropriate for public viewing and Woodland representation
 
 
 
