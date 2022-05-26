@@ -49,8 +49,8 @@
 
 | Criteria                          |     | Exceptional  | Acceptable    | Developing   | Needs Improvement |
 | :------------------------------:  | :--:| :----------: | :-----------: | :----------: | :---------------: |
-| General Specifications            |     | 50           | 40            | 30           |  20               |
-| Creativity                        |     | 40           | 32            | 24           |  20               | 
+| General Specifications            |     | 30           | 24            | 18           |  12               |
+| Creativity                        |     | 60           | 48            | 36           |  24               | 
 | Administrative Specifications     |     | 20           | 16            | 12           |   8               |
 | Time and Classroom Management     |     | 20           | 16            | 12           |   8               |
 | Timeliness of Project Deadlines   |     | 20           | 16            | 12           |   8               |
