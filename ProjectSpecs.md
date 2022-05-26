@@ -8,7 +8,7 @@
      - Select your own colors / color palette
      - Select your own font(s)
      - Include a minimum of nine images that directly relate to your theme.
-     - Your images should be stored in the "assets" folder.  The turtle image from the walkthrough is here simply to establish the folder and is NOT to be used in this project
+     - Your images should be stored in the "assets" folder.  The turtle image from the walkthrough is here simply to establish the folder and is NOT to be        used in this project
      - Adhere to any and all copyright concerns
      - If you own the images, your "cardText" class can be used for an image caption and description
      - Add one additional CSS image feature when the user "hovers" their cursor over a photo
