@@ -6,7 +6,7 @@
      - Adapt your own "theme" to this image gallery.  Hawaii was the theme adapted in the walk-through.
      - Maintain the identical structure from the ImageGallery walk-through project as stated in General Specifications below
      - Select your own colors / color palette
-     - Select your own fonts
+     - Select your own font(s)
      - Include a minimum of nine images that directly relate to your theme
      - Adhere to any and all copyright concerns
      - If you own the images, your "cardText" class can be used for an image caption and description
