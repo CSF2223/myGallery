@@ -12,6 +12,7 @@
      - Adhere to any and all copyright concerns
      - If you own the images, your "cardText" class can be used for an image caption and description
      - Add one additional CSS image feature when the user "hovers" their cursor over a photo
+     - Follow [Front-End Design Rules](https://metapress.com/top-5-front-end-design-rules-for-developers/) or [Principles of Good Web Design](https://www.feelingpeaky.com/9-principles-of-good-web-design/)
  - This project will be published on the internet using GitHub pages (as demonstrated in the walk-through) and thus should be appropriate for public viewing and Woodland representation
 
 
