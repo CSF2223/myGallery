@@ -1,7 +1,7 @@
 # PROJECT SPECIFICATIONS and RUBRIC
 
 ## Creativity
- - The primary purpose for a "freelance" project is to take what you have learned in the related walkthrough and make it your own.
+ - The primary purpose of a "freelance" project is to take what you have learned in the related walkthrough and make it your own.
  - In this project you are asked to do the following:
      - Adapt your own "theme" to this image gallery.  Hawaii was the theme adapted in the walk-through.
      - Maintain the identical structure from the ImageGallery walk-through project as stated in General Specifications below
